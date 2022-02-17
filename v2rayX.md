@@ -10,7 +10,7 @@ V2rayX
 
 4. SSL登录
 
-   ![image-20220217110637853](v2rayX.assets/image-20220217110637853.png)
+   ![image-20220217110637853](/v2rayX.assets/image-20220217110637853.png)
 
    主机连接成功后
 
